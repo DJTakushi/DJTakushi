@@ -1,6 +1,6 @@
 ## Daniel ("Danny") Takushi  「沢岻　ダニエル」
-Software Developer in Osaka, Japan (US Citizen from Skokie, Illinois)  \
-dannytakushi@gmail.com, 1-847-305-1584, [https://github.com/DJTakushi](https://github.com/DJTakushi)
+Software Developer in Osaka, Japan (US Citizen from Skokie, Illinois)  [www.linkedin.com/in/daniel-takushi-65913991](www.linkedin.com/in/daniel-takushi-65913991)\
+dannytakushi@gmail.com, 1-847-305-1584, [https://github.com/DJTakushi](https://github.com/DJTakushi),
 
 ## Work Experience
 | Dates         | Workplace                             | Details                                                                                                                             |
