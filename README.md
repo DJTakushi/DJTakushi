@@ -1,11 +1,12 @@
 ## Daniel ("Danny") Takushi  「沢岻　ダニエル」
-Software Developer in Osaka, Japan (US Citizen from Skokie, Illinois)  [www.linkedin.com/in/daniel-takushi-65913991](www.linkedin.com/in/daniel-takushi-65913991)\
-dannytakushi@gmail.com, 1-847-305-1584, [https://github.com/DJTakushi](https://github.com/DJTakushi),
+Software Developer in Skokie, IL. (US Citizen)  [www.linkedin.com/in/daniel-takushi-65913991](www.linkedin.com/in/daniel-takushi-65913991)\
+[takushi.us](takushi.us), [https://github.com/DJTakushi](https://github.com/DJTakushi)
+dannytakushi@gmail.com, 1-847-271-7117, 
 
 ## Work Experience
 | Dates         | Workplace                             | Details                                                                                                                             |
 | ------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 2019-Present  | Schneider Electric <br> Osaka, Japan  | Communication-protocol software developer for HMI devices       <br> Investigated domestic market opportunities in industrial water |
+| 2019-2022  | Schneider Electric <br> Osaka, Japan  | Communication-protocol software developer for HMI devices       <br> Investigated domestic market opportunities in industrial water |
 | 2016-2019     | Navistar <br> Lisle, Il               | Embedded software developer, & tester for vehicle ECUs          <br> JIRA Administrator and process flow implementer                |
 | 2015-2016     | Caterpillar <br> Peoria, IL           | Software developer for vehicle automatic transmissions          <br> Software-In-Loop test system developer                         |
 | 2014-2014     | Molex <br> Lisle, IL                  | Created automated test rig accessible to developers' desks      <br> Testing and analysis on material samples                       |
@@ -25,10 +26,10 @@ dannytakushi@gmail.com, 1-847-305-1584, [https://github.com/DJTakushi](https://g
 
 | Languages           | Platforms/Environments    |Other                  |
 | ------------------- | ------------------------- | --------------------- |
-| C/C++/C#/CMake      |Apache                     |CANalyzer/CANoe/CaNape |
+| C/C++/C#/CMake      |AWS                        |CANalyzer/CANoe/CaNape |
 | HTML/CSS/Javascript |Docker                     |Eagle                  |
-| Java (basic)        |Embedded hardware/software |Excel / spreadsheets   |
-| MySQL/MariaDB       |FPGAs(VHDL)                |Japanese (intermediate)|
+| Java (basic)        |Django                     |Excel / spreadsheets   |
+| MySQL/MariaDB       |Embedded hardware/software |Japanese (intermediate)|
 | PHP                 |Git/Subversion/Clearcase   |JIRA                   |
 | Python              |PIC                        |Soldering & prototyping|
 | Shell (bash/cmd)    |Raspberry Pi               |Spanish (intermediate) |
