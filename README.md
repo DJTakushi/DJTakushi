@@ -1,7 +1,9 @@
 ## Daniel ("Danny") Takushi  「澤岻　ダニエル」
-Software Developer in Skokie, IL. (US Citizen)  [www.linkedin.com/in/daniel-takushi-65913991](www.linkedin.com/in/daniel-takushi-65913991)\
+Software Developer in Skokie, IL. (US Citizen)  [www.linkedin.com/in/daniel-takushi-65913991](www.linkedin.com/in/daniel-takushi-65913991)
+
 [takushi.us](takushi.us), [https://github.com/DJTakushi](https://github.com/DJTakushi)
-dannytakushi@gmail.com, 1-847-271-7117, 
+
+dannytakushi@gmail.com, 1-847-271-7117
 
 ## Work Experience
 | Dates         | Workplace                             | Details                                                                                                                             |
