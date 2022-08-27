@@ -6,10 +6,10 @@ dannytakushi@gmail.com, 1-847-271-7117
 ## Work Experience
 | Dates         | Workplace                             | Details                                                                                                                             |
 | ------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 2019-2022  | Schneider Electric <br> Osaka, Japan  | Communication-protocol software developer for HMI devices       <br> Investigated domestic market opportunities in industrial water |
+| 2019-2022  | Schneider Electric <br> Osaka, Japan  | Communication-protocol software developer for HMI devices       <br> C++ drivers for Wind River Linux and Windows application |
 | 2016-2019     | Navistar <br> Lisle, Il               | Embedded software developer, & tester for vehicle ECUs          <br> JIRA Administrator and process flow implementer                |
 | 2015-2016     | Caterpillar <br> Peoria, IL           | Software developer for vehicle automatic transmissions          <br> Software-In-Loop test system developer                         |
-| 2014-2014     | Molex <br> Lisle, IL                  | Created automated test rig accessible to developers' desks      <br> Testing and analysis on material samples                       |
+| 2014-2014     | Molex <br> Lisle, IL                  | Automated test rig designer      <br> Testing and analysis on material samples                       |
 | 2011-2012     | John Crane <br> Morton Grove, IL      | Drafted components in CAD                                       <br> Operated test rigs                                             |
 
 ## University of Illinois at Urbana Champaign (B.S. Electrical Engineering) [2015]
