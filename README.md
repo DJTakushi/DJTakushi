@@ -1,4 +1,5 @@
 <link rel="stylesheet" type="text/css" href="takushiResumeStyles.css">
+
 ## Daniel ("Danny") Takushi  「澤岻（たくし）　ダニエル」
 Software Developer in Skokie, IL.  US Citizen (exclusively).
 
