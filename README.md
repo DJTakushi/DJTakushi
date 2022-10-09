@@ -1,21 +1,4 @@
-<style>
-table, p, ul, td, th {
-  font-size: 12px;
-  padding-top: 0.1em !important;
-  padding-bottom: 0.1em !important;
-  margin-top: 0.1em !important;
-  margin-bottom: 0.1em !important;
-}
-h2 {
-  margin-top: 0.5em !important;
-  margin-bottom: 0.25em !important;
-  font-size: 1em !important;
-}
-h4, h5 {
-  margin-top: 0.4em !important;
-  margin-bottom: 0.2em !important;
-}
-</style>
+<link rel="stylesheet" type="text/css" href="takushiResumeStyles.css">
 ## Daniel ("Danny") Takushi  「澤岻（たくし）　ダニエル」
 Software Developer in Skokie, IL.  US Citizen (exclusively).
 
