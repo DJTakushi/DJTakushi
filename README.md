@@ -17,8 +17,8 @@ Software Developer in Skokie, IL.  US Citizen (exclusively).
 | HTML/CSS/Javascript    |Docker                         | Excel/spreadsheets        |
 | MySQL/MariaDB/Postgres |__Django__                     | Japanese (intermediate)   |
 | PHP                    |Embedded hardware/software     | JIRA                      |
-| __Python__             |Git/Subversion/Clearcase       | Prototyping and soldering |
-| Shell (bash/cmd)       |PIC                            | Welding (MIG & TIG)       |
+| __Python__             |Git/Subversion/Clearcase       | __Jenkins__               |
+| Shell (bash/cmd)       |PIC                            | Prototyping and soldering |
 | Simulink               |Raspberry Pi                   | Spanish (intermediate)    |
 
 ## Work Experience
@@ -27,8 +27,8 @@ Software Developer in Skokie, IL.  US Citizen (exclusively).
   - Delivered specialized protocol libraries and installers for customers' unique needs
   - Reverse-engineered undocumented existing communication protocols to ensure product compatibility
 - C++ libraries for embedded Linux and Windows applications
-  - C++03, CMAKE, Docker, Jenkins, msbuild, VisualStudio, Wind River Linux, Termux, LUA Applications
-- Developed unit tests and automated function tests
+  - __C++03__, __CMAKE__, Docker, __Jenkins__, msbuild, VisualStudio, Wind River __Linux__, Termux, LUA Applications
+- Developed unit tests and __python__-automated function tests
 - Restructured & refactored codebase for compliance & performance (Squore, MISRA, Git)
   - Migrated codebase from GitBucket to GitHub and from VS2013 to VS2019
 - Documentation created for team and new developers (markdown)
