@@ -23,7 +23,8 @@ Software Developer in Skokie, IL.  US Citizen (exclusively).
 
 ## Work Experience
 ##### RPC Inc (remote) [2022-10 &rarr; present]
-- Software/Data Engineer on 3 person team for industrial equipment controls (J1939, RMQ, MQTT, HTTP)
+- Software/Data Engineer on 3 person team for industrial equipment controls
+- Network communication (HTTP, RMQ, MQTT, J1939, CAN)
 - Yocto Linux builds with C++ applications and automated unit/target-testing
 - Refactors and updates libraries for enhanced productivity
 
