@@ -22,6 +22,11 @@ Software Developer in Skokie, IL.  US Citizen (exclusively).
 | Simulink               |Raspberry Pi                   | Spanish (intermediate)    |
 
 ## Work Experience
+##### RPC Inc (remote) [2022-10 &rarr; present]
+- Software/Data Engineer on 3 person team for industrial equipment controls (J1939, RMQ, MQTT, HTTP)
+- Yocto Linux builds with C++ applications and automated unit/target-testing
+- Refactors and updates libraries for enhanced productivity
+
 ##### Schneider Electric (Osaka, Japan) [2019-04 &rarr; 2022-02]
 - HMI communication-protocol software developer for PLCs (Yokogawa, Siemens, LS, JSW, Rockwell, etc.)
   - Delivered specialized protocol libraries and installers for customers' unique needs
