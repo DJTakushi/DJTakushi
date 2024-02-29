@@ -6,7 +6,6 @@ Software Developer in Skokie, IL.  US Citizen (exclusively).
 | Key                | Value  |
 |--------------------|--------|
 |__Contact Info__    | dannytakushi@gmail.com, 1-847-271-7117 |
-|__Personal Website__| [www.takushi.us](https://www.takushi.us/) (AWS/Django/DjangoRESTFrameWork)|
 |__Github__          | [https://github.com/DJTakushi](https://github.com/DJTakushi)|
 |__LinkedIn__        | [https://www.linkedin.com/in/daniel-takushi-65913991/](https://www.linkedin.com/in/daniel-takushi-65913991/)|
 
