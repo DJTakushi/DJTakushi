@@ -23,11 +23,13 @@ Software Developer in Skokie, IL.  US Citizen (exclusively).
 ## Work Experience
 ##### RPC Inc (remote) [2022-10 &rarr; present]
 - Software/Data Engineer on 3 person team for industrial equipment controls
-- Network communication (HTTP, RMQ, MQTT, J1939, CAN)
-- Yocto Linux builds with C++17 applications
-- Automated unit-testing and deployed-target-testing (python)
-- Refactors and updates libraries for enhanced performance and productivity
-- Dockerization of builds and deployments
+  - Feature design, development, verication, and bug-correction (>200 PRs/year)
+  - Automated unit-testing and deployed-target-testing (python)
+  - Refactors and updates libraries for enhanced performance and productivity
+- System
+  - Yocto/Poky Linux custom-os built with C++17 applications and system configuration
+  - Command/control/aggregation over networks (HTTP, RMQ, MQTT, J1939, CAN)
+  - Dockerized local deployments with simulators
 
 ##### Schneider Electric (Osaka, Japan) [2019-04 &rarr; 2022-02]
 - HMI communication-protocol software developer for PLCs (Yokogawa, Siemens, LS, JSW, Rockwell, etc.)
