@@ -21,15 +21,14 @@ Software Developer in Glenview, IL.  US Citizen (exclusively), dannytakushi@gmai
 
 ## Work Experience
 ##### RPC Inc (remote) [2022-10 &rarr; present]
-- Software/Data Engineer on 3 person team for industrial equipment controls
-  - Feature design, development, verication, and bug-fixes
-  - Automated testing and deployed-target-testing (python)
-  - Refactors and updates libraries for enhanced performance and productivity
-- System
-  - Yocto/Poky Linux custom-os built with C++17 applications and system configuration
+- Software/Data Engineer on 3 person embedded team for hydraulic fracturing machine controls
+  - Yocto/Poky Linux built with C++17 applications using BitBake for Arm Cortex-A9
   - HTTP, RMQ, MQTT, J1939, & CAN network communciation
   - Dockerized deployments with simulators
-  - IoTEdge applications
+  - IoTEdge supplementary applications
+- Feature design, development, verication, and bug-fixes
+- Automated test development (python) and unit-testing
+- Refactor and update libraries for enhanced performance and productivity
 
 ##### Schneider Electric (Osaka, Japan) [2019-04 &rarr; 2022-02]
 - HMI communication-protocol software developer for PLCs (Yokogawa, Siemens, LS, JSW, Rockwell, etc.)
