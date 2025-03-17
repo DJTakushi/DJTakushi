@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="takushiResumeStyles.css">
 
-## Daniel ("Danny") Takushi  「澤岻（たくし）　ダニエル」
-Software Developer in Skokie, IL.  US Citizen (exclusively).
+## Daniel Takushi  「澤岻（たくし）　ダニエル」
+Software Developer in Skokie, IL.  US Citizen (exclusively)
 
 | Key                | Value  |
 |--------------------|--------|
@@ -13,7 +13,7 @@ Software Developer in Skokie, IL.  US Citizen (exclusively).
 | Languages              | Platforms/Environments        | Additional Tools          |
 | ---------------------- | ----------------------------- | ------------------------- |
 | __C/C++__/C#/CMake     |__AWS__ (EC2, EBS, S3, Lambda) | CANalyzer/CANoe/CaNape    |
-| HTML/CSS/Javascript    |Docker                         | Excel/spreadsheets        |
+| HTML/CSS/Javascript    |Docker / Docker-Compose        | Excel/spreadsheets        |
 | MySQL/MariaDB/Postgres |__Django__                     | Japanese (intermediate)   |
 | PHP                    |Embedded hardware/software     | JIRA                      |
 | __Python__             |Git/Subversion/Clearcase       | __Jenkins__               |
@@ -23,13 +23,14 @@ Software Developer in Skokie, IL.  US Citizen (exclusively).
 ## Work Experience
 ##### RPC Inc (remote) [2022-10 &rarr; present]
 - Software/Data Engineer on 3 person team for industrial equipment controls
-  - Feature design, development, verication, and bug-correction (>200 PRs/year)
-  - Automated unit-testing and deployed-target-testing (python)
+  - Feature design, development, verication, and bug-fixes
+  - Automated testing and deployed-target-testing (python)
   - Refactors and updates libraries for enhanced performance and productivity
 - System
   - Yocto/Poky Linux custom-os built with C++17 applications and system configuration
-  - Command/control/aggregation over networks (HTTP, RMQ, MQTT, J1939, CAN)
-  - Dockerized local deployments with simulators
+  - HTTP, RMQ, MQTT, J1939, & CAN network communciation
+  - Dockerized deployments with simulators
+  - IoTEdge applications
 
 ##### Schneider Electric (Osaka, Japan) [2019-04 &rarr; 2022-02]
 - HMI communication-protocol software developer for PLCs (Yokogawa, Siemens, LS, JSW, Rockwell, etc.)
