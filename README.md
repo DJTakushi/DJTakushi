@@ -1,13 +1,12 @@
 <link rel="stylesheet" type="text/css" href="takushiResumeStyles.css">
 
 ## Daniel Takushi  「澤岻（たくし）　ダニエル」
-Software Developer in Skokie, IL.  US Citizen (exclusively)
+Software Developer in Glenview, IL.  US Citizen (exclusively), dannytakushi@gmail.com
 
-| Key                | Value  |
-|--------------------|--------|
-|__Contact Info__    | dannytakushi@gmail.com, 1-847-271-7117 |
-|__Github__          | [https://github.com/DJTakushi](https://github.com/DJTakushi)|
-|__LinkedIn__        | [https://www.linkedin.com/in/daniel-takushi-65913991/](https://www.linkedin.com/in/daniel-takushi-65913991/)|
+<table>
+      <tr><td>Github</td><td><a href="https://github.com/DJTakushi">https://github.com/DJTakushi</a></td></tr>
+      <tr><td>LinkedIn</td><td><a href="https://www.linkedin.com/in/daniel-takushi-65913991/">https://www.linkedin.com/in/daniel-takushi-65913991/</a></td></tr>
+</table>
 
 ## Skills & Tools
 | Languages              | Platforms/Environments        | Additional Tools          |
