@@ -26,7 +26,7 @@ Software Developer in Glenview, IL.  US Citizen (exclusively), dannytakushi@gmai
   - HTTP, RMQ, MQTT, J1939, & CAN network communciation
   - Dockerized deployments with simulators
   - IoTEdge supplementary applications
-- Feature design, development, verication, and bug-fixes
+- Feature design, development, verification, and bug-fixes
 - Automated test development (python) and unit-testing
 - Refactor and update libraries for enhanced performance and productivity
 
