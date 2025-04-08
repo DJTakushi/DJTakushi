@@ -9,13 +9,13 @@ Software Developer in Glenview, IL.  US Citizen (exclusively), dannytakushi@gmai
 </table>
 
 ## Skills & Tools
-| Languages              | Platforms/Environments      | Additional Tools          |
-| ---------------------- | --------------------------- | ------------------------- |
-| __C/C++__/CMake        | AWS (EC2, EBS, S3, Lambda)  | CANalyzer/CANoe/CaNape    |
-| C#                     | Docker / Docker-Compose     | Excel/spreadsheets        |
-| HTML/CSS/Javascript    | Django                      | Japanese (intermediate)   |
-| MySQL/MariaDB/Postgres | Embedded hardware/software  | JIRA                      |
-| PHP                    | Git/Subversion/Clearcase    | __Jenkins__               |
+| Languages              | Platforms/Environments      | Additional Tools
+| ---------------------- | --------------------------- | -------------------------
+| __C/C++__/CMake        | AWS (EC2, EBS, S3, Lambda)  | CANalyzer/CANoe/CaNape
+| C#                     | Docker / Docker-Compose     | Excel/spreadsheets
+| HTML/CSS/Javascript    | Django                      | Japanese (intermediate)
+| MySQL/MariaDB/Postgres | Embedded hardware/software  | JIRA
+| PHP                    | Git/Subversion/Clearcase    | __Jenkins__
 | __Python__             | IoT Edge (Azure)            | Prototyping and soldering
 | Shell (bash/cmd)       | Node                        | Spanish (intermediate)
 | Simulink               | PIC                         | Yocto / Bitbake
